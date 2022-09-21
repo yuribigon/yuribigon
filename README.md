@@ -15,18 +15,17 @@ Eu sou desenvolvedor **full-stack**.
 <hr>
 
 ## ⭐ Sobre mim
-Sou **desenvolvedor full-stack** iniciante, desvendando o mundo da programação...
+:wink: Sou **desenvolvedor full-stack** iniciante, desvendando o mundo da programação...
 
 🎓 Sou pós graduado em Gestão de Pessoas e faço parte do **Programa Starter** da <a href="https://www.growdev.com.br/">Growdev</a> 🚀 com formação em Dev Web Full Stack
 
-💼 **Experiências profissionais** - responsável por área administrativa e recursos humanos no setor público.
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/yuri-bigon/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+💼 **Experiências profissionais** - responsável por área administrativa e recursos humanos no setor público. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/yuri-bigon/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 Linguagem de Programação favorita ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 Atualmente estudando: ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Hobbies? Games e futebol
+**Hobbies**: :video_game: :soccer: :airplane: 
 
 ---
 
