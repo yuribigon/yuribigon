@@ -2,13 +2,9 @@
 
 
 ## 🚀 Sobre mim
-Sou desenvolvedor full-stack iniciante, buscando aprender cada vez mais...
+Sou desenvolvedor full-stack iniciante, em busca de novos conhecimentos...
 
-
-
-
-
-Sou pós graduado em Gestão de Pessoas e faço parte do Programa Starter da Growdev com formação em Dev Full Stack em andamento
+Sou pós graduado em Gestão de Pessoas e faço parte do Programa Starter da Growdev com formação em Dev Web Full Stack
 
 Experiências profissionais - responsável por área administrativa e recursos humanos
 
@@ -20,4 +16,4 @@ Hobbies? Games e futebol
 
 
 ## 🔗 Links
-[![linkedin](https://img.shield.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-bigon/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-bigon/)
