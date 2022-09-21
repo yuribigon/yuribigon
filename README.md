@@ -1,23 +1,23 @@
-### Hi there 👋
+# Olá, eu sou o Yuri! 👋
 
-<!--
-**yuribigon/yuribigon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Sou desenvolvedor full-stack iniciante, buscando aprender cada vez mais...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-- 😄 Olá, eu sou Yuri Bigon
-- Meus hobbies - games e futebol
-- Formação - Pós em Gestão de Pessoas - Dev Full Stack em andamento
-- Experiências profissionais - responsável por área administrativa e recursos humanos
-- Linguagem de Programação favorita - JS
-- O que está estudando atualmente - HTML, CSS e JS
--->
+
+
+
+Sou pós graduado em Gestão de Pessoas e faço parte do Programa Starter da Growdev com formação em Dev Full Stack em andamento
+
+Experiências profissionais - responsável por área administrativa e recursos humanos
+
+Linguagem de Programação favorita - JS
+
+Atualmente estudando HTML, CSS e JS
+
+Hobbies? Games e futebol
+
+
+## 🔗 Links
+[![linkedin](https://img.shield.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-bigon/)
