@@ -17,7 +17,7 @@ Eu sou desenvolvedor **full-stack**.
 ## ⭐ Sobre mim
 :wink: Sou **desenvolvedor full-stack** iniciante, desvendando o mundo da programação...
 
-🎓 Sou pós graduado em Gestão de Pessoas e faço parte do **Programa Starter** da <a href="https://www.growdev.com.br/">Growdev</a> 🚀 com formação em Dev Web Full Stack
+🎓 Sou pós graduado em Gestão de Pessoas e faço parte do **Programa Starter** da <a href="https://www.growdev.com.br/">Growdev</a> 🚀 com formação em Dev Web Full Stack. Em outra formação FullStack, pela Impacta, tive as primeiras impressões com Angular, React Native, MongoDB e C#.
 
 💼 **Experiências profissionais** - responsável por área administrativa e recursos humanos no setor público. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/yuri-bigon/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
