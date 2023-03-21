@@ -21,8 +21,6 @@ Eu sou desenvolvedor **full-stack**.
 
 💼 **Experiências profissionais** - responsável por área administrativa e recursos humanos no setor público. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/yuri-bigon/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-Linguagem de Programação favorita ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-
 Atualmente estudando: ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 **Hobbies**: :video_game: :soccer: :airplane: 
