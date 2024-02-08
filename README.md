@@ -6,7 +6,7 @@
 
 <p>
 
-Estudando na **Growdev** 🚀<br/>
+Formado em Web Full Stack na **Growdev** 🚀<br/>
 
 Eu sou desenvolvedor **full-stack**.
 
@@ -17,11 +17,10 @@ Eu sou desenvolvedor **full-stack**.
 ## ⭐ Sobre mim
 :wink: Sou **desenvolvedor full-stack** iniciante, desvendando o mundo da programação...
 
-🎓 Sou pós graduado em Gestão de Pessoas e faço parte do **Programa Starter** da <a href="https://www.growdev.com.br/">Growdev</a> 🚀 com formação em Dev Web Full Stack. Em outra formação FullStack, pela Impacta, tive as primeiras impressões com Angular, React Native, MongoDB e C#.
+🎓 Sou pós graduado em Gestão de Pessoas e fiz parte do **Programa Starter** da <a href="https://www.growdev.com.br/">Growdev</a> 🚀 com formação em Dev Web Full Stack. Em outra formação FullStack, pela Impacta, tive as primeiras impressões com Angular, React Native, MongoDB e C#.
 
 💼 **Experiências profissionais** - responsável por área administrativa e recursos humanos no setor público. Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/yuri-bigon/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-Atualmente estudando: ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 **Hobbies**: :video_game: :soccer: :airplane: 
 
